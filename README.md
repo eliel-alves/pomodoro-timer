@@ -14,3 +14,7 @@ Project developed with the objective of learning new concepts about React and Ty
 ![Homepage](/src/assets/home.png?raw=true "Homepage")
 ![Homepage](/src/assets/em-andamento.png?raw=true "Homepage")
 ![Homepage](/src/assets/historico.png?raw=true "Homepage")
+
+## Deploy
+
+You can check out the project live by [clicking here](https://pomodoro-timer-ten-sandy.vercel.app/).
